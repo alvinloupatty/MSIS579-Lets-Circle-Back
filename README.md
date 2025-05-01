@@ -1,4 +1,5 @@
 About
+
 This project was developed to end the cycle of forgotten commitments and "Let's circle back" statements that never materialize. By leveraging AI to track and resurface important action items, we're helping teams follow through, make decisions that stick, and ultimately become more effective.
 
 Let's Circle Back - AI Action Item Tracker
@@ -25,21 +26,34 @@ Integration Capabilities: Works with popular meeting tools, project management s
 Technology Stack
 
 Next.js and React for the frontend interface
+
 Natural Language Processing models for action item detection
+
 Vercel for deployment and scaling
+
 RESTful API for integration with meeting tools and productivity apps
 
 Use Cases
 
 Executive and team meetings follow-up
+
 Project management and task tracking
+
 Decision tracking for governance and compliance
+
 Cross-team collaboration management
+
 Product development workflow optimization
 
+
 Integration - Optionals
+
 In the future, I hope users can integrate this tool with:
+
 Meeting transcription tools
+
 Calendar applications
+
 Task management systems
+
 Email and messaging platforms
