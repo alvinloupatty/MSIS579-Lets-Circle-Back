@@ -3,11 +3,9 @@ This project was developed to end the cycle of forgotten commitments and "Let's 
 
 Let's Circle Back - AI Action Item Tracker
 
-Project Link: v0-ai-task-detection-pied.vercel.app
+Project Link: https://v0-ai-task-detection-pied.vercel.app
 
-Walkthrough Video Link: 
-
-Dataset:
+Walkthrough Video Link: https://youtu.be/mGU1_pCZTfc
 
 Overview
 "Let's Circle Back" is an AI-powered solution that automatically detects, tracks, and resurfaces abandoned action items from meetings. Built to solve the common problem where over 40% of meeting action items are never followed up on, this tool ensures nothing falls through the cracks by persistently bringing unresolved tasks back to attention until they're completed.
